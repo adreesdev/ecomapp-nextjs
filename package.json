@@ -9,9 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/cache": "^11.10.3",
+    "@emotion/react": "^11.10.4",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.4",
+    "@mui/icons-material": "^5.10.9",
+    "@mui/material": "^5.10.10",
+    "@reduxjs/toolkit": "^1.8.6",
+    "jquery": "^3.6.1",
     "next": "12.3.1",
+    "next-redux-wrapper": "^8.0.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-loader-spinner": "^5.3.4",
+    "react-owl-carousel": "^2.3.3",
+    "react-redux": "^8.0.4"
   },
   "devDependencies": {
     "eslint": "8.26.0",
